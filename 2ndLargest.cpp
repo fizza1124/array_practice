@@ -1,4 +1,4 @@
-//8. You have an array of 10 integers. Write a program to find the second largest number in the array.(Do not sort the array; try to solve it using logic with comparisons.)
+
 #include<iostream>
 using	namespace	std;
 int	main()
