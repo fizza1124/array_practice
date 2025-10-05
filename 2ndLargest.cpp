@@ -12,11 +12,13 @@ int	main()
 			
 for (int i = 1; i < 10; i++) {
         if (n[i] > max) 
+			secondMax=max;
             max = n[i]; //highest number
            
         }
-        
-  
+        cout<<"Maximum no is :" <<max ;
+		 cout<<" Second Maximum no is :" <<secondMax ;
+			
         return	0;
 }
 
